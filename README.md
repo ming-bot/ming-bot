@@ -39,7 +39,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ming-bot&repo=HiCRISP&theme=tokyonight&bg_color=0d1117" /></a>
 <a href="https://github.com/ming-bot/STODI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ming-bot&repo=STODI&theme=tokyonight&bg_color=0d1117" /></a>
-
 </div>
 
 <div align="center">
