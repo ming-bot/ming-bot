@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/ming-bot/STODI">
+<a href="https://github.com/ming-bot/STOD">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ming-bot&repo=STODI&theme=tokyonight&bg_color=0d1117" /></a>
 <a href="https://github.com/ming-bot/HiCRISP">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ming-bot&repo=HiCRISP&theme=tokyonight&bg_color=0d1117" /></a>
