@@ -36,16 +36,16 @@ Here are some ideas to get you started:
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/ming-bot/STODI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ming-bot&repo=RobotWriteWord&theme=tokyonight&bg_color=0d1117" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ming-bot&repo=STODI&theme=tokyonight&bg_color=0d1117" /></a>
 <a href="https://github.com/ming-bot/HiCRISP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ming-bot&repo=Carbon&theme=tokyonight&bg_color=0d1117" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ming-bot&repo=HiCRISP&theme=tokyonight&bg_color=0d1117" /></a>
 </div>
 
 <div align="center">
 <a href="https://github.com/ming-bot/NeedForSpeedAI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ming-bot&repo=NeedForSpeedAI&theme=tokyonight&bg_color=0d1117" /></a>
 <a href="https://github.com/ming-bot/2022THU_EDC24">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ming-bot&repo=ETDCar&theme=tokyonight&bg_color=0d1117" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ming-bot&repo=2022THU_EDC24&theme=tokyonight&bg_color=0d1117" /></a>
 </div>
 
 
